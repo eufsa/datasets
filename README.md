@@ -1,5 +1,11 @@
 # EUFS Autonomous Datasets
 
+A collection of datasets gathered by the EUFS team whilist developing an autonomous formula student car.
+
+All datasets come in a rosbag format and can be used directly in ROS. Otherwise, raw data can be extracted using [bag_tools](http://wiki.ros.org/bag_tools).
+
+Repository also includes custom ROS messages featured in the datasets.
+
 ### Contents
 1. [Sanderson car park](#sanderson)
 2. [FS-AI 2018 Dataset](#fsai)
