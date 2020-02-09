@@ -1,5 +1,7 @@
 # EUFS Autonomous Datasets
 
+**This repo has moved to gitlab - https://gitlab.com/eufs/datasets**
+
 A collection of datasets gathered by the EUFS team whilist developing an autonomous formula student car.
 
 All datasets come in a rosbag format and can be used directly in ROS. Otherwise, raw data can be extracted using [bag_tools](http://wiki.ros.org/bag_tools).
